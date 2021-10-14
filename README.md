@@ -1,5 +1,7 @@
 ### Radua ⚡ 
+💬 B站id：Radua_Official
 
+🔭 I’m Radua.一个兴趣使然的INTP
 <!--
 **Raduap/Raduap** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,7 +16,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-💬 B站id：Radua_Official
-🔭 I’m Radua.一个兴趣使然的INTP
+
 ![Radua's github stats](https://github-readme-stats.vercel.app/api?username=Raduap&show_icons=true&include_all_commits=true)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Raduap&card_width=495)
